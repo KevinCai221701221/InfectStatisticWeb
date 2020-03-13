@@ -1,0 +1,36 @@
+#q1,#q2{
+    margin-left: 10%
+}
+
+#q3{
+    margin-left: 10%; 
+    width:80%;
+    height:100px;
+    text-align: center;
+}
+
+#main{
+    margin-left: 10%; 
+    width:80%;
+    height:600px;
+}
+
+#q4{
+    margin-left: 11%; 
+    width:78%;
+    height:75px;
+    background:green;
+}
+
+.a1{
+    width:20%;
+    height:100px;
+    float:left;
+}
+
+.a2{
+    width:26%;
+    height:75px;
+    float: left;
+}
+
