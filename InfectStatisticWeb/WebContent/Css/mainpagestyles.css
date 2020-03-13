@@ -18,7 +18,7 @@
 
 #main{
 	margin-left: 10%;
-	 width:80%;
+	width:80%;
 	height:800px;
 }
 
@@ -33,3 +33,10 @@
 	height:75px;
 	float: left;
 }
+
+.b1{
+	font-family: "宋体";
+	font-weight: bold;]
+	text-align: center;
+}
+
