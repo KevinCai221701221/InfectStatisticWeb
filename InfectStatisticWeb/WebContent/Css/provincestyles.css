@@ -64,3 +64,23 @@
 .button1:active{
     background-color: green;
 }
+
+.c1{
+    color: #FF9900;
+    font-weight: bold;
+}
+
+.c2{
+    color: #CC0000;
+    font-weight: bold;
+}
+
+.c3{
+    color: #33CCFF;
+    font-weight: bold;
+}
+
+.c4{
+    color: black;
+    font-weight: bold;
+}

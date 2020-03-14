@@ -22,6 +22,36 @@
 	height:800px;
 }
 
+.c1{
+	color: #CC3300;
+	font-weight: bold;
+}
+
+.c2{
+	color: #CC6600;
+	font-weight: bold;
+}
+
+.c3{
+	color: #6600FF;
+	font-weight: bold;
+}
+
+.c4{
+	color: #CC0000;
+	font-weight: bold;
+}
+
+.c5{
+	color: #339900;
+	font-weight: bold;
+}
+
+.c6{
+	color: black;
+	font-weight: bold;
+}
+
 #now,#all{
 	width: 100%;
 	background-color: white;
@@ -65,3 +95,4 @@
 	font-weight: bold;]
 	text-align: center;
 }
+
