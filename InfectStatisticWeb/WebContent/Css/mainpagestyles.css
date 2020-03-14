@@ -5,7 +5,7 @@
 #q2{
 	margin-left: 11%;
 	width:78%;
-	height:200px;
+	height:230px;
 	text-align: center;
 }
 
@@ -20,6 +20,32 @@
 	margin-left: 10%;
 	width:80%;
 	height:800px;
+}
+
+#now,#all{
+	width: 100%;
+	background-color: white;
+    border: 2px solid #e7e7e7;
+    color: black;
+    padding: 8px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    margin: 4px 2px;
+    cursor: pointer;
+	border-radius: 12px;
+}
+
+#now:hover,#all:hover{
+	background-color: gray;
+    color: white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+#now:active{
+	background-color: #A8A8A8;
+	color: white;
 }
 
 .a1{
@@ -39,4 +65,3 @@
 	font-weight: bold;]
 	text-align: center;
 }
-
